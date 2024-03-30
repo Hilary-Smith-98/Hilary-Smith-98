@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there!
 
+### Hilary Smith
+She/her  
+hsmith98@hotmail.co.uk  
+
+## About me
+
+Hi! I'm a dedicated, fast-learning individual and a recent graduate of Makers Academy. I'm looking to start my career in tech
 <!--
 **Hilary-Smith-98/Hilary-Smith-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
