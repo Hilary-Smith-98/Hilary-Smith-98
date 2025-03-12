@@ -1,7 +1,7 @@
 ## Hi there!
 
 ### Hilary Smith
-She/her  
+She/they
 hilary.ft.smith@gmail.com
 
 ## About me
