@@ -2,6 +2,7 @@
 
 ### Hilary Smith
 She/they
+
 hilary.ft.smith@gmail.com
 
 ## About me
